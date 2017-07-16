@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learnInterface/learnInterface.iml" filepath="$PROJECT_DIR$/learnInterface/learnInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zzpinterface.iml" filepath="$PROJECT_DIR$/zzpinterface.iml" />
+    </modules>
+  </component>
+</project>
